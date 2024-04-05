@@ -1,7 +1,7 @@
 
 # VIT3 Database-Module-Week9
 ### Not:Konu anlatiminda bahsedilen, derse tedarik ederek geleceginiz data uzerinden asagidaki sorgulamalari yapmaniz gerekmektedir ;
-###* Note: You are required to perform the following queries on the data you will procure by attending the lecture;*
+### *Note: You are required to perform the following queries on the data you will procure by attending the lecture;*
 * 1) İlk isminde Nick, Ed ve Jennifer adları bulunan aktörlerin adını ve soyadını gösterin. *(Show the first name and last name of actors whose first names are Nick, Ed, and Jennifer.)*
 * 2) İlk isminde adları Ed, Nick ve Jennifer olan aktörün sadece soyadını gösterin. *(Show only the last name of the actor whose first names are Ed, Nick, and Jennifer.)*
 * 3) Adres tablosunun bütün ayrıntılarını gösterin. *(Show all details of the address table.)*
